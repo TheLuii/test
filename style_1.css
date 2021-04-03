@@ -1,0 +1,52 @@
+body {
+    background-color: lightgray;
+}
+
+img {
+    max-width: 100%;
+}   
+
+.carousel-inner {
+    margin-top: 2px;
+}
+
+.text {
+    margin-top: 60px;
+    text-align: center;
+}
+  
+.our {
+    margin-bottom: 30px;
+    margin-top: 30px;
+    text-align: center;
+    
+}
+
+.info {
+    text-align: center;
+    background-color: cadetblue;
+    margin-bottom: -8px;
+    margin-top: 5px;
+}
+
+.two {
+    margin-top: 30px;
+}
+
+.three {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ 
